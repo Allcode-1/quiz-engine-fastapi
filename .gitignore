@@ -1,0 +1,21 @@
+# virtual environment directories
+venv/
+env/
+.venv/
+
+# dotenv
+.env
+
+# python cache files
+__pycache__/
+*.pyc
+
+# test sqlite database files
+*.db
+*.sqlite3
+
+# vscode sets
+.vscode/
+
+# test cache
+.pytest_cache/
