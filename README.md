@@ -72,3 +72,9 @@ The project uses Pytest with an isolated SQLite database for testing.
 ```bash
 python -m pytest
 ```
+
+## Docker Deployment
+You can run the entire project (API + Database) using Docker:
+```bash
+docker-compose up --build
+```
