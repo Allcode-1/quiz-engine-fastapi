@@ -27,7 +27,7 @@ Follow these steps to get the project running on your local machine:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Allcode-1/quiz-engine-fastapi](https://github.com/your-username/quiz-engine.git)
+git clone https://github.com/Allcode-1/quiz-engine-fastapi
 cd qwiz_pp
 ```
 
